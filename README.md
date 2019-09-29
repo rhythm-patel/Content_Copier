@@ -9,7 +9,7 @@ There are numerous times where we want to copy the content of a file, so we open
 
 So, with this add-on, after selecting a file, there will be an option to "Copy Content" on the right-click menu. The content of the file is copied and we save our valuble time.
 
-Installation steps:
+# Installation steps:
 
 1) Download/Clone this repository
 2) Give executable permissions to Run.sh
