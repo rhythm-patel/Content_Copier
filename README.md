@@ -1,4 +1,4 @@
-# Content_Copier
+# Content Copier
 
 Copies the content inside a file instead of the file itself. Applicable to any type of file.
 
