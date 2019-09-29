@@ -18,5 +18,7 @@ Installation steps:
 The python modules will be automatically imported and the scripts will me moved to the necessary locations.
 
 Authors:
+
 Rhythm Patel
+
 Shubham Mittal
