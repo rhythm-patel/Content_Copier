@@ -4,8 +4,8 @@
 
 #It also runs another script called "Requirement.sh" which contains the script to install the required packages.
 
-cp check.py ~/.local/share/nautilus
+cp copy.py ~/.local/share/nautilus
 
-cp Copy_Contents.sh ~/.local/share/nautilus/scripts
+cp Copy_Content.sh ~/.local/share/nautilus/scripts
 
 ./Requirements.sh
