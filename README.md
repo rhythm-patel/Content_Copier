@@ -15,7 +15,6 @@ So, with this add-on, after selecting a file, there will be an option to "Copy C
 2) Give executable permissions to Run.sh
 3) Run the script file - Run.sh
 
-The python modules will be automatically imported and the scripts will me moved to the necessary locations.
+The python modules will be automatically imported and the scripts will be moved to the necessary locations.
 
-Authors:
-Rhythm Patel & Shubham Mittal
+This code is contributed to Rhythm Patel & Shubham Mittal.
