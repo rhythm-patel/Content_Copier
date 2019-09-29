@@ -1,9 +1,5 @@
 #!/bin/sh
 
-# echo "${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}" > testfile_contents.txt
+#Script to get path of selected file and passing its path to the python script "copy.py"
 
-# path = "${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}"
-
-# python3 /Desktop/check.py `cat testfile_contents.txt`
-
-python3 ~/.local/share/nautilus/check.py ${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}
+python3 ~/.local/share/nautilus/copy.py ${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}
