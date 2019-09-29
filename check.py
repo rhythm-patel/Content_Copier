@@ -8,5 +8,3 @@ f=open(filename, "r")
 pyperclip.copy(f.read())
 pyperclip.paste()
 
-#sudo apt-get install xsel 
-#bind pyperclip
