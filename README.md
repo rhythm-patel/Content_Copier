@@ -17,4 +17,4 @@ So, with this add-on, after selecting a file, there will be an option to "Copy C
 
 The python modules will be automatically imported, and the scripts will be moved to the necessary locations.
 
-### This code is contributed to Rhythm Patel & Shubham Mittal.
+### This code is contributed to Rhythm Patel and Shubham Mittal.
