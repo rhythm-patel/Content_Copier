@@ -6,6 +6,6 @@
 
 cp copy.py ~/.local/share/nautilus
 
-cp Copy_Content.sh ~/.local/share/nautilus/scripts
+cp Copy_Contents.sh ~/.local/share/nautilus/scripts
 
 ./Requirements.sh
