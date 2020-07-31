@@ -2,7 +2,7 @@
 
 Copies the content inside a file instead of the file itself. Applicable to any type of file.
 
-Requirements: Linux based Operating System with python3 installed
+**Requirements:** Linux based Operating System with python3 installed
 
 This add-on enables us to copy the data of a file instead of the file being copied itself. 
 There are numerous times where we want to copy the content of a file, so we open the file (of any format) with any application (for e.g., say a .java file with VS Code or Eclipse). It takes some time to open the application and then we click on "Select All" and afterwards copy the data. Every time we do this, some time is wasted, and it makes a significant difference when we accumulate this time.
