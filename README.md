@@ -9,9 +9,10 @@ There are numerous times where we want to copy the content of a file, so we open
 
 So, with this add-on, after selecting a file, there will be an option to "Copy Content" on the right-click menu. The content of the file is copied, and we save our valuable time.
 
+Note: The option to Copy Contents has been moved to the "Scripts" section of the right-click menu from Ubuntu 18 onwards.
+
 ![Menu](menu.jpeg)
 
-Note: The option to Copy Contents is moved to the "Scripts" section in the right-click menu from Ubuntu 18.
 
 ## Installation steps
 
